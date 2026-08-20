@@ -1,4 +1,13 @@
 # Smart Crowd Safety Monitoring for Hajj and Umrah
+## Authors
+Dana Almutairi,
+Hala Alhamzah,
+Joud Alazzaz .
+
+## SDAIA Academy
+
+This project was completed within a training context connected to SDAIA Academy.
+[SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
 
 ## Project Overview
 
@@ -274,16 +283,6 @@ This project was completed as part of a computer-vision training program coverin
 - OpenCV and privacy protection
 - End-to-end video processing
   
-## Authors
-Dana Almutairi,
-Hala Alhamzah,
-Joud Alazzaz .
-
-## SDAIA Academy
-
-This project was completed within a training context connected to SDAIA Academy.
-
-[SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
 
 ## Disclaimer
 
