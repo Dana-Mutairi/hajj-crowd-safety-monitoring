@@ -273,6 +273,11 @@ This project was completed as part of a computer-vision training program coverin
 - Model evaluation
 - OpenCV and privacy protection
 - End-to-end video processing
+  
+## Authors
+Dana Almutairi
+Hala Alhamzah
+Joud Alazzaz
 
 ## SDAIA Academy
 
