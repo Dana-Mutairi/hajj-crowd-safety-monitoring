@@ -277,7 +277,7 @@ This project was completed as part of a computer-vision training program coverin
 ## Authors
 Dana Almutairi,
 Hala Alhamzah,
-Joud Alazzaz.
+Joud Alazzaz .
 
 ## SDAIA Academy
 
